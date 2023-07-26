@@ -9,5 +9,6 @@ By default scheduled calls are disconnected at the end of the meeting.  Ad-hoc c
 Note: Auto-connecting calls can be a security risk.  By default in this macro the microphone is muted at the start of a call.  To change set: autoAudioMuteScheduledCalls = false.  
 
 Author:  Joe Hughes
+
 let contact =  'joehughe' + '@' + 'cisco' + '.com' 
 
