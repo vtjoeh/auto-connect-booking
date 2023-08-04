@@ -12,9 +12,7 @@ Purpose: Automatically connects One Button To Push (OBTP) scheduled meetings at 
 - Works with OBTP and extending booking feature.  
 - Tested with Webex cloud registered devices using O365 hybrid calendar connector. 
 
-By default scheduled calls are disconnected at the end of the meeting.  Adhoc calls overrides the auto-connect of scheduled meeings.   
-
-Note: Auto-connecting calls can be a security risk.  By default in this macro the microphone is muted at the start of a call.  To change set: autoAudioMuteScheduledCalls = false.  
+Note: Auto-connecting calls can be a security risk.  By default, the macro mutes the microphone at the start of a call.  To change set: autoAudioMuteScheduledCalls = false.  
 
 
 
